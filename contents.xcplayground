@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios'>
+    <pages>
+        <page name='01. Simple'/>
+        <page name='02. Increment'/>
+        <page name='03. DataTaskPublisher'/>
+        <page name='04. Final'/>
+    </pages>
+</playground>
